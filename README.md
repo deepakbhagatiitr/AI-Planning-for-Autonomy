@@ -92,8 +92,6 @@ Contributions are welcome! Please follow these steps:
 3. Commit your changes with clear messages.
 4. Push to your fork and open a Pull Request.
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for more details (if present).
-
 ---
 
 ## License
