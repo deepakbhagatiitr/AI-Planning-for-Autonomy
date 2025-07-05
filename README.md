@@ -107,7 +107,7 @@ This project is licensed under the MIT License.
 ## Author / Acknowledgements
 
 - **Author:** Deepak Bhagat  
-  [GitHub](https://github.com/your-username) | [LinkedIn](https://linkedin.com/in/your-link)
+  [GitHub](https://github.com/deepakbhagatiitr) | [LinkedIn](https://www.linkedin.com/in/deepakbhagatiitr/)
 
 - **Acknowledgements:**
   - Sequence game framework authors  
